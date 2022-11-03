@@ -25,5 +25,5 @@
 <a href="https://www.mysql.com/" title="MySql" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarMendel&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barmendel123&theme=transparent)
 
