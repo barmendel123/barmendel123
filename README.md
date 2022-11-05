@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Bar Mendel 🤙</h1>
-<h3 align="center">At the moment I'm a Computer Science Student At Afeka Tel-Aviv Academic College of Engineering 🧑‍💻</h3>
+<h3 align="A Computer Science Student At Afeka Tel-Aviv Academic College of Engineering 🧑‍💻</h3>
 
 
 • 🙅‍♂️ A people's person a ambitious, and a team player!
