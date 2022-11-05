@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi! I'm Bar Mendel 🤙</h1>
-<h3 align="A Computer Science Student At Afeka Tel-Aviv Academic College of Engineering 🧑‍💻</h3>
+<h3 align="center">A Computer Science Student At Afeka Tel-Aviv Academic College of Engineering 🧑‍💻</h3>
 
 
 • 🙅‍♂️ A people's person a ambitious, and a team player!
@@ -8,11 +9,12 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
+• 💚 My hobbies: 🤾‍♂️ Running 🏄‍♀️ Surfing 🏂 Snowboarding
+
 • 🏆 I recently built a clone of Monday, [check it out here](https://workday.onrender.com).
 
 • 📫 You can reach me at **bar1.mendel@gmail.com**
 
-• 💚 My hobbies: 🤾‍♂️ Running 🏄‍♀️ Surfing 🏂 Snowboarding
 
 
 <h3 align="left">Connect with me:</h3>
