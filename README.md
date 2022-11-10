@@ -9,8 +9,6 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 💚 My hobbies: 🤾‍♂️ Running 🏄‍♀️ Surfing 🏂 Snowboarding
-
 • 🏆 I recently built a clone of Monday, [check it out here](https://workday.onrender.com).
 
 • 📫 You can reach me at **bar1.mendel@gmail.com**
