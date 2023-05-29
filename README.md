@@ -2,13 +2,6 @@
 <h1 align="center">Hi! I'm Bar Mendel 🤙</h1>
 <h3 align="center">Computer Science Student At Afeka Tel-Aviv Academic College of Engineering 🧑‍💻</h3>
 
-
-• 🙅‍♂️ A people's person a ambitious, and a team player!
-
-• 🗒️ Proficient in building single-page apps. 
-
-• 🎯 High self-disciplined with a constant drive for professional excellence.
-
 • 🏆 I recently built a clone of Monday, [check it out here](https://workday.onrender.com).
 
 • 📫 You can reach me at **bar1.mendel@gmail.com**
